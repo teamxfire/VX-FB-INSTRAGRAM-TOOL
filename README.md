@@ -29,7 +29,7 @@ Remember :- This App Made For Educational Purpose Only. Don't Use Any Iligel Act
  - Version 6.0+
  
  ## DOWNLOAD
- - <a href="(https://github.com/teamxfire/VX-FB-INSTRAGRAM-TOOL/raw/main/VX%20SOCIAL%20TOOL.apk)">VX FB INS TOOL</a>
+ <a href="(https://github.com/teamxfire/VX-FB-INSTRAGRAM-TOOL/raw/main/VX%20SOCIAL%20TOOL.apk)">DOWNLOAD</a>
 
 
 
