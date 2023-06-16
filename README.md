@@ -12,13 +12,13 @@ Remember :- This App Made For Educational Purpose Only. Don't Use Any Iligel Act
 [![https://t.me/TXF2022](https://img.shields.io/badge/Telegram-https://t.me/TXF2022-blue.svg?style=flat-square)](https://t.me/TXF2022)
 
 </div>
-<img src='photo_2023-06-16_16-56-47.jpg' 
-<img src='photo_2023-06-16_16-56-50.jpg' style="height:100px;width:100px;" >
-<img src='photo_2023-06-16_16-56-53.jpg' style="height:100px;width:100px;" >
-<img src='photo_2023-06-16_16-56-56.jpg' style="height:100px;width:100px;" >
-<img src='photo_2023-06-16_16-56-58.jpg' style="height:100px;width:100px;" >
-<img src='photo_2023-06-16_16-57-01.jpg' style="height:100px;width:100px;" >
-<img src='photo_2023-06-16_16-57-03.jpg' style="height:100px;width:100px;" >
+<img src='photo_2023-06-16_16-56-47.jpg'>
+<img src='photo_2023-06-16_16-56-50.jpg'>
+<img src='photo_2023-06-16_16-56-53.jpg'>
+<img src='photo_2023-06-16_16-56-56.jpg'>
+<img src='photo_2023-06-16_16-56-58.jpg'>
+<img src='photo_2023-06-16_16-57-01.jpg'>
+<img src='photo_2023-06-16_16-57-03.jpg'>
 ## Features
 
  - NO LOCK FB ID 
